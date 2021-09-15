@@ -14,7 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f29f82-9ec2-4dd0-9c2e-e4e710f160f6" name="Default Changelist" comment="Flink1.12.0_ByJava">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +172,9 @@
       <workItem from="1631447396952" duration="21000" />
       <workItem from="1631448164777" duration="32000" />
       <workItem from="1631448355285" duration="745000" />
+      <workItem from="1631449124654" duration="228000" />
+      <workItem from="1631610943427" duration="94000" />
+      <workItem from="1631611406070" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Flink1.12.0_ByJava">
       <created>1631448421378</created>
@@ -186,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631448920603</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Flink1.12.0_ByJava">
+      <created>1631449169941</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631449169941</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,23 +213,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Flink1.12.0_ByJava" />
     <option name="LAST_COMMIT_MESSAGE" value="Flink1.12.0_ByJava" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="593" y="308" width="350" height="291" key="Gitee.ShareDialog" timestamp="1631448193632">
+    <state x="593" y="308" width="350" height="291" key="Gitee.ShareDialog" timestamp="1631611033373">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="593" y="308" width="350" height="291" key="Gitee.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1631448193632" />
+    <state x="593" y="308" width="350" height="291" key="Gitee.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1631611033373" />
     <state x="270" y="52" key="SettingsEditor" timestamp="1631449056180">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="270" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1631449056180" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1631448923191">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1631449349490">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1631448923191" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1631449349490" />
+    <state x="564" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631610947621">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="564" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1631610947621" />
   </component>
 </project>
